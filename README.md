@@ -1,4 +1,4 @@
-# cocdd4c8380c024af58a98c45
+# Scrimba HTML&CSS Course
 
 ## About Scrimba
 
